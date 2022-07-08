@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: simff/nginx-php-test:latest
         ports:
-        - containerPort: 8080
+        - containerPort: 8085
