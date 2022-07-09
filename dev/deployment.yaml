@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: misha1607/os:latest
+          image: misha1607/os
           ports:
             - containerPort: 80
 
